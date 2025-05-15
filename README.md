@@ -54,6 +54,5 @@ This project is part of the ASC23 assignment focused on transport, specifically 
 
 ---
 
-**Authors**: Denis Mitali 
-            Patricia Mugabo 
-**Assignment**: ASC23 Transport Track – Data Visualization  
+**Authors**: Denis Mitali, 
+             Patricia Mugabo.
